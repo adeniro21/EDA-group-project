@@ -9,3 +9,4 @@ https://www.cato.org/human-freedom-index-new
 
 https://object.cato.org/sites/cato.org/files/human-freedom-index-files/human-freedom-index-2018-revised.pdf
  - Page 17: Table of variables included in personal and economic freedom
+ - Page 376: Data dictionary/explanations for variables
